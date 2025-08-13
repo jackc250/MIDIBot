@@ -10,7 +10,6 @@ env/
 
 # Environment files & secrets
 .env
-.env.*
 
 # OS junk
 .DS_Store
