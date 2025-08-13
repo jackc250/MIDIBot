@@ -1,0 +1,8 @@
+# Core
+mido>=1.3.0
+midiutil>=1.2.1
+python-dotenv>=1.0.1
+# Optional realtime MIDI (comment out if not needed)
+python-rtmidi>=1.5.8
+# AI features (comment out if not using)
+openai>=1.40.0
